@@ -13,4 +13,4 @@ spring:
 
 app:
   name: subject
-  items: dog, cat, sport, music, art, math, science, history, language, literature, food, travel, nature, film, dance, photography, technology, fashion, health, fitness
+  items: dog, cat, sport, music, portrait, table, book, water, banana, fly, food, bird, sun, film, spoon, phone, jacket, tree, bottle, TV
