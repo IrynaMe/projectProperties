@@ -14,4 +14,4 @@ spring:
 
 app:
   name: object
-  items: obj1,obj2,obj3,obj4,obj5
+  items: car, dog, soccer, music, painting, mathematics, biology, geography, language, poetry, cooking, hiking, wildlife, cinema, ballet, photography, technology, fashion, wellness, yoga
